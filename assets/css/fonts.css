@@ -1,3 +1,8 @@
+:root {
+  --scale-font-family-sans: "Telekom Neo", "Telekom Heritage", sans-serif;
+}
+
+
 /* fira-sans-regular - latin */
 @font-face {
   font-display: swap;
